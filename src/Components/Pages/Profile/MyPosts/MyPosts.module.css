@@ -1,0 +1,10 @@
+.wrapper {
+    height: 100vh;
+}
+.posts {
+    height: 100%;
+}
+.input {
+    width: 100%;
+    height: 50px;
+}

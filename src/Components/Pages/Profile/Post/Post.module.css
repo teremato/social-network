@@ -1,0 +1,35 @@
+.wrapper {
+    border: 2px solid gray;
+    padding: 10px;
+    margin: 10px;
+}
+.user {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+.name {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+.icon {
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+}
+.text {
+    padding: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.like {
+    width: 5%;
+    padding: 10px;
+
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+
+    background-color: skyblue;
+    color: white;
+
+    border-radius: 5px;
+}
